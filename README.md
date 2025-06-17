@@ -9,35 +9,20 @@ Hello! I'm Miguel Ángel Luquín, a fourth-year Computer Engineering student pas
 
 ## Featured Projects
 
-- **Project 1: [Project Name]**  
-  *Brief description of the project and its goals.*  
-  **Technologies:** Python, Flask  
+- **Project 1: Mathematical foundation of Reinforcement Learning (Lang:Spanish)**  
+  *This Final Degree presents a mathematical study of Reinforcement Learning, with a focus on the Q-learning algorithm. It explores Markov Decision Processes, value functions, and convergence analysis. Applications range from simple environments like Frozen Lake to Deep Q-learning in complex tasks.*  
+  **Technologies:** Python, Tensorflow, Gymnasium 
   [View Code](https://github.com/yourusername/project1) | [Live Demo](https://yourusername.github.io/project1)
 
-- **Project 2: [Project Name]**  
-  *Brief description of the project and its goals.*  
-  **Technologies:** JavaScript, React  
+- **Project 2: Prediction of In-Hospital Mortality from the MBDS: Classification by Severity Levels (Lang:spanish)**  
+  *This project focuses on predicting in-hospital mortality using administrative healthcare data from the Spanish MBDS (Minimum Basic Data Set). The goal is to classify patient hospitalizations into different severity levels and use logistic regression models to estimate the probability of death during hospitalization.*  
+  **Technologies:** R Studio, 
   [View Code](https://github.com/yourusername/project2) | [Live Demo](https://yourusername.github.io/project2)
-
-- **Project 3: [Project Name]**  
-  *Brief description of the project and its goals.*  
-  **Technologies:** Java, Spring Boot  
-  [View Code](https://github.com/yourusername/project3) | [Live Demo](https://yourusername.github.io/project3)
-
-- **Project 4: [Project Name]**  
-  *Brief description of the project and its goals.*  
-  **Technologies:** C#, .NET  
-  [View Code](https://github.com/yourusername/project4) | [Live Demo](https://yourusername.github.io/project4)
-
-- **Project 5: [Project Name]**  
-  *Brief description of the project and its goals.*  
-  **Technologies:** HTML, CSS, JavaScript  
-  [View Code](https://github.com/yourusername/project5) | [Live Demo](https://yourusername.github.io/project5)
 
 ---
 
 ## About Me
 
-I am a curious and motivated Computer Engineering student with experience in various programming languages and frameworks. I enjoy solving real-world problems through technology and am always eager to learn new things.
+I am a curious and motivated Mathematic and Computer Engineer with experience in various programming languages and frameworks. I enjoy solving real-world problems through technology and am always eager to learn new things.
 
 Thank you for visiting my portfolio!
