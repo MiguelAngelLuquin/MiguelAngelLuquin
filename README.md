@@ -24,7 +24,7 @@ Below you'll find a selection of my featured projects. 🚀
 
 ---
 
-### 🔹 [Prediction of In-Hospital Mortality from the MBDS (Lang: 🇪🇸)](https://github.com/yourusername/project2)
+### 🔹 [Prediction of In-Hospital Mortality from the MBDS (Lang: 🇪🇸)](https://github.com/MiguelAngelLuquin/HospitalMortalityPrediction_CMBd)
 
 > 🏥 **Statistical Modeling Project**  
 > This project focuses on predicting **in-hospital mortality** using real anonymized data from the **Spanish MBDS** (Minimum Basic Data Set). It classifies patients into severity levels and applies logistic regression models to estimate the risk of death during hospitalization.
